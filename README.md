@@ -175,16 +175,16 @@ Skills: `Android Development` `Kotlin` `Java` `SQL`
 <!-- Header Links -->
 <!-- Añadir sus respectivos links correctamente -->
 <p align="center">
-  <a href="https://bento.me/amangupta143">
+  <a href="https://github.com/Okubukee">
     <img src="https://img.shields.io/badge/-Portfolio-grey?style=flat&logo=appveyor&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://github.com/amangupta143">
+  <a href="https://github.com/Okubukee">
     <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" alt="Github">
   </a>
-  <a href="https://www.linkedin.com/in/amangupta143/">
+  <a href="https://www.linkedin.com/in/daniel-cardenas-323b102b0/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin">
   </a>
-  <a href="mailto:tuemail@ejemplo.com">
+  <a href="mailto:cardenasdcg@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" alt="E-mail">
   </a>
 </p>
