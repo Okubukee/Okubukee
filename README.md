@@ -19,34 +19,48 @@
 
 <div align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VvM3JycG0zZ2R6ZGVvc2VnNnN0dTFnNmZlY3R4bWQyYjJ0MTFxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cpzRH0kMVEGV8bVxLn/giphy.gif" width="100px" style="margin-bottom: 0px; margin-top: 30px">
-  <h2 style="margin-top: 0;">🛠️ | Languages, Frameworks, and Tools </h2>
+ 
 
-  <table>
-    <tr>
-      <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Backend:</td>
-      <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,ktor,kotlin,java,discordjs,lua,cs,net,spring"/></td>
-    </tr>
-    <tr>
-      <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-      <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap"/></td>
-    </tr>
-    <tr>
-      <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">DevOps:</td>
-      <td><img height="40" src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,gcp,aws,gradle,bash,azure,maven,powershell"/></td>
-    </tr>
-    <tr>
-      <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Database:</td>
-      <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,mongodb,postgres"/></td>
-    </tr>
-    <tr>
-      <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Version Control:</td>
-      <td><img height="40" src="https://skillicons.dev/icons?i=github,git,npm"/></td>
-    </tr>
-    <tr>
-      <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Other Tools:</td>
-      <td><img height="40" src="https://skillicons.dev/icons?i=androidstudio,discord,bots,gmail,idea,instagram,linkedin,linux,postman,robloxstudio,stackoverflow,twitter,visualstudio,vscode,windows	"/></td>
-    </tr>
-  </table>
+<h2 style="margin-top: 0;">🛠️ | Languages, Frameworks, and Tools</h2>
+
+<table>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px;">Languages & Backend:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=java,kotlin,cs,lua,nodejs,express,ktor,net,spring,discordjs"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px;">Frontend:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px;">Databases:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,mongodb"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px;">DevOps & Cloud:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,gradle,maven,bash,powershell,aws,gcp,azure"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px;">Version Control & Package Managers:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=git,github,npm"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px;">Development Environments:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,robloxstudio"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px;">Operating Systems:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=windows,linux"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px;">Utilities & APIs:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=postman,bots"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px;">Social & Community:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=discord,gmail,instagram,linkedin,stackoverflow,twitter"/></td>
+  </tr>
+</table>
 
 </div>
 
@@ -124,6 +138,7 @@ Skills: `Android Development` `Kotlin` `Java` `SQL`
 
 ---
 
+<!-- Corregir spotify -->
 <div align="center">
   <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 10px;">
     <a href="https://open.spotify.com/user/dje13t9xjc55ll9s28rle8947">
@@ -158,6 +173,7 @@ Skills: `Android Development` `Kotlin` `Java` `SQL`
 <h2 align="center" style="margin-top: 30px ">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 
 <!-- Header Links -->
+<!-- Añadir sus respectivos links correctamente -->
 <p align="center">
   <a href="https://bento.me/amangupta143">
     <img src="https://img.shields.io/badge/-Portfolio-grey?style=flat&logo=appveyor&logoColor=white" alt="Portfolio">
