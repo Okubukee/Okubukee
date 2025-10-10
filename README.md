@@ -74,7 +74,7 @@ Skills: `Android Development` `Kotlin` `Java` `SQL`
 <br>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW8zeWRrNGhpdnQ4c3BjNmRhYThicXZucWQwa2NqYjFnZHQ4b245MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nNvZTDJq8pSngnblOs/giphy.gif" width="100px" style="margin-bottom: 0px;">
 
-<h3 style="margin-top: 0px;">Featured GitHub Repositories</h3>
+<h3 style="margin-top: 0px;">Highlighted GitHub Repositories</h3>
 
 ---
 
