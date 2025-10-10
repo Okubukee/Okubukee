@@ -1,7 +1,6 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> About me
 
 
-
 <pre>
 💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
 📚 I have a Bachelors in Computer Science and a Masters in Artificial Intelligence & Deep Learning
@@ -14,34 +13,39 @@
 
 
 
-<h2>🛠️ | Languages, Frameworks, and Tools </h2>
-<table>
+<div align="center">
+
+  <h2>🛠️ | Languages, Frameworks, and Tools </h2>
+
+  <table>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,anaconda,opencv,java,php,laravel,cs,net,spring,go"/></td>
+      <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Backend:</td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,anaconda,opencv,java,php,laravel,cs,net,spring,go"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,mui,bootstrap,html,css,js,ts,angular,vue,vuetify"/></td>
+      <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,mui,bootstrap,html,css,js,ts,angular,vue,vuetify"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,gcp,aws,prometheus,terraform,azure,kubernetes"/></td>
+      <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">DevOps:</td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,gcp,aws,prometheus,terraform,azure,kubernetes"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,graphql,mongodb,redis,elasticsearch"/></td>
+      <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Database:</td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,graphql,mongodb,redis,elasticsearch"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab,bitbucket"/></td>
+      <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Version Control:</td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab,bitbucket"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana"/></td>
+      <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Other Tools:</td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana"/></td>
     </tr>
-</table>
-<br>
+  </table>
+
+</div>
+
 
 
 <!-- Licenses & certifications -->
@@ -64,26 +68,53 @@ Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `S
 
  ## Repositorios de GitHub
 
-Aquí tienes una tabla con tus repositorios públicos. Puedes rellenarla manualmente o usar un script para autogenerarla desde la API de GitHub.
+<div align="center">
 
-| Nombre | Descripción | Stars | Lenguaje | Enlace |
-|---|---|---:|---|---|
-| carlog | Sitio personal / portfolio | 35 | HTML/CSS | https://github.com/Okubukee/carlog |
-| proyecto-ejemplo | Breve descripción del proyecto | 4 | JavaScript | https://github.com/Okubukee/carlog |
+  <table>
+    <thead>
+      <tr>
+        <th>📁 Nombre</th>
+        <th>📝 Descripción</th>
+        <th>⭐ Stars</th>
+        <th>💻 Lenguaje</th>
+        <th>🔗 Enlace</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>carlog</strong></td>
+        <td>Sitio personal / portfolio</td>
+        <td>35</td>
+        <td>HTML/CSS</td>
+        <td><a href="https://github.com/Okubukee/carlog">Ver repositorio</a></td>
+      </tr>
+      <tr>
+        <td><strong>proyecto-ejemplo</strong></td>
+        <td>Breve descripción del proyecto</td>
+        <td>4</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/Okubukee/carlog">Ver repositorio</a></td>
+      </tr>
+    </tbody>
+  </table>
 
-_Nota: reemplaza las filas con tus repositorios reales._
+</div>
+
 
 
 
 ### Spotify Playing 🎧
 ---
 
-<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 10px;">
-<a href="https://open.spotify.com/user/dje13t9xjc55ll9s28rle8947">
-    <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify Now Playing" />
-  <img src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" alt="GIF" height="170px" />
-  </a>
+<div align="center">
+  <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 10px;">
+    <a href="https://open.spotify.com/user/dje13t9xjc55ll9s28rle8947">
+      <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify Now Playing" />
+    </a>
+    <img src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" alt="GIF" height="170px" />
+  </div>
 </div>
+
 
 ---
 
