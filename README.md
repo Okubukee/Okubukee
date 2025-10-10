@@ -1,7 +1,11 @@
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> About me
 
+<div align="center">
+ <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDhweHd0bWx5YnJzN3Vrb3Z6cjh1NHRiY3loNmxmMms2bWh6YnBkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XECtl1Fa2k8IKU2987/giphy.gif" width="60px"> <h1>About me</h1>
+<div>
 
-<pre>
+---
+
+<pre align="left">
 💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
 📚 I have a Bachelors in Computer Science and a Masters in Artificial Intelligence & Deep Learning
 📝 I have a strong interest in building Frontend Uis for ML applications
@@ -11,11 +15,11 @@
 🚩 Interested in Full Stack Machine Learning Application development
 </pre>
 
-
+<br>
 
 <div align="center">
-
-  <h2>🛠️ | Languages, Frameworks, and Tools </h2>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VvM3JycG0zZ2R6ZGVvc2VnNnN0dTFnNmZlY3R4bWQyYjJ0MTFxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cpzRH0kMVEGV8bVxLn/giphy.gif" width="100px" style="margin-bottom: 0px;">
+  <h2 style="margin-top: 0;">🛠️ | Languages, Frameworks, and Tools </h2>
 
   <table>
     <tr>
@@ -49,8 +53,12 @@
 
 
 <!-- Licenses & certifications -->
-</br>
-<h2>Licenses & certifications</h2>
+
+<div style="text-align: center;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDlnbm1jMmVqeTFkeWRjZHRiaW82bjVsaTV2M3I4MGxoMmo4ajBndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0fXoIiJw535moY5eu5/giphy.gif" width="100px" style="margin-bottom: 0px;">
+  <h2 style="margin-top: 0;">Licenses & certifications</h2>
+</div>
+
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1723680000&v=beta&t=LPfySBrOZL3Abme80Rn3zZ_amSM3HFU8l65TpWwBmjk"/>](https://www.stanford.edu/)
 **Machine Learning Specialization** \
@@ -65,8 +73,11 @@ Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `S
 `Suffix Tree` `KMP Algorithm`
 
 <br>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW8zeWRrNGhpdnQ4c3BjNmRhYThicXZucWQwa2NqYjFnZHQ4b245MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nNvZTDJq8pSngnblOs/giphy.gif" width="100px" style="margin-bottom: 0px;">
 
- ## Repositorios de GitHub
+<h3 style="margin-top: 0px;">Repositorios de GitHub</h3>
+
+---
 
 <div align="center">
 
@@ -75,7 +86,6 @@ Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `S
       <tr>
         <th>📁 Nombre</th>
         <th>📝 Descripción</th>
-        <th>⭐ Stars</th>
         <th>💻 Lenguaje</th>
         <th>🔗 Enlace</th>
       </tr>
@@ -84,14 +94,12 @@ Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `S
       <tr>
         <td><strong>carlog</strong></td>
         <td>Sitio personal / portfolio</td>
-        <td>35</td>
         <td>HTML/CSS</td>
         <td><a href="https://github.com/Okubukee/carlog">Ver repositorio</a></td>
       </tr>
       <tr>
         <td><strong>proyecto-ejemplo</strong></td>
         <td>Breve descripción del proyecto</td>
-        <td>4</td>
         <td>JavaScript</td>
         <td><a href="https://github.com/Okubukee/carlog">Ver repositorio</a></td>
       </tr>
@@ -100,10 +108,9 @@ Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `S
 
 </div>
 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDgxdmlsMm8ybnNzamttMXNodmJlNjU5Y2hicTh1cjJrenJqYTR2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cOfwtFobGCLJBU3DNn/giphy.gif" width="140px" style="margin-bottom: 0px ">
+<h3 style="margin-top: 0px;">Spotify Playing</h3>
 
-
-
-### Spotify Playing 🎧
 ---
 
 <div align="center">
@@ -111,7 +118,7 @@ Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `S
     <a href="https://open.spotify.com/user/dje13t9xjc55ll9s28rle8947">
       <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify Now Playing" />
     </a>
-    <img src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" alt="GIF" height="170px" />
+    
   </div>
 </div>
 
@@ -154,3 +161,5 @@ Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `S
     <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnVqdG4yd3FqcjF1Mnk5dTk4bDNxeHcwbDJjZDF5MjB1ZWV0c2N2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.gif">
