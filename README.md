@@ -6,45 +6,45 @@
 ---
 
 <pre align="left">
-💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
-📚 I have a Bachelors in Computer Science and a Masters in Artificial Intelligence & Deep Learning
-📝 I have a strong interest in building Frontend Uis for ML applications
-🔭 Working on Shopify Themes and React websites using Gatsby.js
-🌱 Focusing on Learning about customer needs and making their lives easier
-🌟 Main languages: Javascript, Python
-🚩 Interested in Full Stack Machine Learning Application development
+💻 I'm developing my skills as a backend developer | New technology enthusiast
+📚 I have a Bachelor's Degree in Multiplatform Application Development
+📝 I have a keen interest in development
+🔭 I work and adapt to different topics
+🌱 I focus on understanding clients' needs and simplifying their lives
+🌟 Main languages: Java, C#, Kotlin
+🚩 Interested in application development
 </pre>
 
 <br>
 
 <div align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VvM3JycG0zZ2R6ZGVvc2VnNnN0dTFnNmZlY3R4bWQyYjJ0MTFxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cpzRH0kMVEGV8bVxLn/giphy.gif" width="100px" style="margin-bottom: 0px;">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VvM3JycG0zZ2R6ZGVvc2VnNnN0dTFnNmZlY3R4bWQyYjJ0MTFxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cpzRH0kMVEGV8bVxLn/giphy.gif" width="100px" style="margin-bottom: 0px; margin-top: 30px">
   <h2 style="margin-top: 0;">🛠️ | Languages, Frameworks, and Tools </h2>
 
   <table>
     <tr>
       <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Backend:</td>
-      <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,anaconda,opencv,java,php,laravel,cs,net,spring,go"/></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,ktor,kotlin,java,discordjs,lua,cs,net,spring"/></td>
     </tr>
     <tr>
       <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-      <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,mui,bootstrap,html,css,js,ts,angular,vue,vuetify"/></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap"/></td>
     </tr>
     <tr>
       <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">DevOps:</td>
-      <td><img height="40" src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,gcp,aws,prometheus,terraform,azure,kubernetes"/></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,gcp,aws,gradle,bash,azure,maven,powershell"/></td>
     </tr>
     <tr>
       <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Database:</td>
-      <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,graphql,mongodb,redis,elasticsearch"/></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,mongodb,postgres"/></td>
     </tr>
     <tr>
       <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Version Control:</td>
-      <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab,bitbucket"/></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=github,git,npm"/></td>
     </tr>
     <tr>
       <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Other Tools:</td>
-      <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana"/></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=androidstudio,discord,bots,gmail,idea,instagram,linkedin,linux,postman,robloxstudio,stackoverflow,twitter,visualstudio,vscode,windows	"/></td>
     </tr>
   </table>
 
@@ -55,27 +55,26 @@
 <!-- Licenses & certifications -->
 
 <div style="text-align: center;">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDlnbm1jMmVqeTFkeWRjZHRiaW82bjVsaTV2M3I4MGxoMmo4ajBndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0fXoIiJw535moY5eu5/giphy.gif" width="100px" style="margin-bottom: 0px;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDlnbm1jMmVqeTFkeWRjZHRiaW82bjVsaTV2M3I4MGxoMmo4ajBndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0fXoIiJw535moY5eu5/giphy.gif" width="100px" style="margin-bottom: 0px; margin-top: 30px">
   <h2 style="margin-top: 0;">Licenses & certifications</h2>
 </div>
 
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1723680000&v=beta&t=LPfySBrOZL3Abme80Rn3zZ_amSM3HFU8l65TpWwBmjk"/>](https://www.stanford.edu/)
-**Machine Learning Specialization** \
-[**Stanford University**](https://www.stanford.edu/)  • Completed May 4, 2024\
-Skills: `Linear Regression` `Logistic Regression` `Artificial Neural Network` `Decision Trees`
-`Recommender Systems` `Tensorflow` `Xgboost` `Collaborative Filtering`
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVxbjg0NDVlZ3NrZ21xdHRtYzlqN25rZjlsdDhtbGwydmY5NnpuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ao9DUiTKH60XS/giphy.gif"/>](https://www.stanford.edu/)
+**Cross-platform application development** \
+[**Mare Nostrum Institute**](https://portal.edu.gva.es/iesmarenostrum/es/inicio/)  • Completed Jun 15, 5\
+Skills: `Android Development` `Kotlin` `Java` `SQL`  
+`Responsive Layouts` `Git` `GitHub` `Markdown`  
+`REST APIs` `Firebase` `SQLite` `Room`  
+`Cloud Concepts` `Agile Methodologies` `Scrum` `Project Management`  
+`Portfolio Optimization` `Technical Documentation` `Skill Icons` `CI/CD`
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C560BAQHQYa-3EY_aaQ/company-logo_200_200/0/1630633790917/university_of_california_at_san_diego_logo?e=1723680000&v=beta&t=X_5Qx4h6UBPAShe291vknG4p8tGYC79r2en8cDoLtAQ"/>](https://ucsd.edu/)
-**Data Structures and Algorithms Specialization** \
-[**University of California San Diego**](https://ucsd.edu/) • In progress \
-Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `String` `Graph Algorithms` `Algorithm Design` `Software Testing` `Debugging` `Priority Queue` `BST` `Hash Table` `List` `Stack`
-`Suffix Tree` `KMP Algorithm`
+
 
 <br>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW8zeWRrNGhpdnQ4c3BjNmRhYThicXZucWQwa2NqYjFnZHQ4b245MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nNvZTDJq8pSngnblOs/giphy.gif" width="100px" style="margin-bottom: 0px;">
 
-<h3 style="margin-top: 0px;">Repositorios de GitHub</h3>
+<h3 style="margin-top: 0px;">Featured GitHub Repositories</h3>
 
 ---
 
@@ -84,31 +83,43 @@ Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `S
   <table>
     <thead>
       <tr>
-        <th>📁 Nombre</th>
-        <th>📝 Descripción</th>
-        <th>💻 Lenguaje</th>
-        <th>🔗 Enlace</th>
+        <th>📁 Name</th>
+        <th>📝 Description</th>
+        <th>💻 Language</th>
+        <th>🔗 Link</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><strong>carlog</strong></td>
-        <td>Sitio personal / portfolio</td>
-        <td>HTML/CSS</td>
-        <td><a href="https://github.com/Okubukee/carlog">Ver repositorio</a></td>
+        <td><strong>Carlog</strong></td>
+        <td>Vehicle maintenance record</td>
+        <td>Kotlin</td>
+        <td><a href="https://github.com/Okubukee/carlog">View repository</a></td>
       </tr>
       <tr>
-        <td><strong>proyecto-ejemplo</strong></td>
-        <td>Breve descripción del proyecto</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/Okubukee/carlog">Ver repositorio</a></td>
+        <td><strong>Swapify</strong></td>
+        <td>Web application for selling items</td>
+        <td>React, Kotlin, Java, ...</td>
+        <td><a href="https://github.com/Okubukee/">View repository</a></td>
+      </tr>
+      <tr>
+        <td><strong>Soon</strong></td>
+        <td>¿Soon?</td>
+        <td>¿?</td>
+        <td><a href="https://github.com/Okubukee/">View repository</a></td>
+      </tr>
+      <tr>
+        <td><strong>Soon</strong></td>
+        <td>¿Soon?</td>
+        <td>¿?</td>
+        <td><a href="https://github.com/Okubukee/">View repository</a></td>
       </tr>
     </tbody>
   </table>
 
 </div>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDgxdmlsMm8ybnNzamttMXNodmJlNjU5Y2hicTh1cjJrenJqYTR2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cOfwtFobGCLJBU3DNn/giphy.gif" width="140px" style="margin-bottom: 0px ">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDgxdmlsMm8ybnNzamttMXNodmJlNjU5Y2hicTh1cjJrenJqYTR2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cOfwtFobGCLJBU3DNn/giphy.gif" width="140px" style="margin-bottom: 0px; margin-top: 30px">
 <h3 style="margin-top: 0px;">Spotify Playing</h3>
 
 ---
@@ -116,7 +127,7 @@ Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `S
 <div align="center">
   <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 10px;">
     <a href="https://open.spotify.com/user/dje13t9xjc55ll9s28rle8947">
-      <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify Now Playing" />
+      <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify Now Playing" style="margin-bottom: 30px; margin-top: 30px " />
     </a>
     
   </div>
@@ -144,7 +155,7 @@ Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `S
 
 
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<h2 align="center" style="margin-top: 30px ">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 
 <!-- Header Links -->
 <p align="center">
@@ -155,10 +166,10 @@ Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `S
     <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" alt="Github">
   </a>
   <a href="https://www.linkedin.com/in/amangupta143/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin">
   </a>
   <a href="mailto:tuemail@ejemplo.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" alt="E-mail">
   </a>
 </p>
 
