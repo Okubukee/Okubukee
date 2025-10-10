@@ -44,15 +44,46 @@
 <br>
 
 
+<!-- Licenses & certifications -->
+</br>
+<h2>Licenses & certifications</h2>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1723680000&v=beta&t=LPfySBrOZL3Abme80Rn3zZ_amSM3HFU8l65TpWwBmjk"/>](https://www.stanford.edu/)
+**Machine Learning Specialization** \
+[**Stanford University**](https://www.stanford.edu/)  • Completed May 4, 2024\
+Skills: `Linear Regression` `Logistic Regression` `Artificial Neural Network` `Decision Trees`
+`Recommender Systems` `Tensorflow` `Xgboost` `Collaborative Filtering`
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C560BAQHQYa-3EY_aaQ/company-logo_200_200/0/1630633790917/university_of_california_at_san_diego_logo?e=1723680000&v=beta&t=X_5Qx4h6UBPAShe291vknG4p8tGYC79r2en8cDoLtAQ"/>](https://ucsd.edu/)
+**Data Structures and Algorithms Specialization** \
+[**University of California San Diego**](https://ucsd.edu/) • In progress \
+Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `String` `Graph Algorithms` `Algorithm Design` `Software Testing` `Debugging` `Priority Queue` `BST` `Hash Table` `List` `Stack`
+`Suffix Tree` `KMP Algorithm`
+
+<br>
+
+ ## Repositorios de GitHub
+
+Aquí tienes una tabla con tus repositorios públicos. Puedes rellenarla manualmente o usar un script para autogenerarla desde la API de GitHub.
+
+| Nombre | Descripción | Stars | Lenguaje | Enlace |
+|---|---|---:|---|---|
+| carlog | Sitio personal / portfolio | 35 | HTML/CSS | https://github.com/Okubukee/carlog |
+| proyecto-ejemplo | Breve descripción del proyecto | 4 | JavaScript | https://github.com/Okubukee/carlog |
+
+_Nota: reemplaza las filas con tus repositorios reales._
+
 
 
 ### Spotify Playing 🎧
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/dje13t9xjc55ll9s28rle8947)
+<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 10px;">
+<a href="https://open.spotify.com/user/dje13t9xjc55ll9s28rle8947">
+    <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  <img src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" alt="GIF" height="170px" />
+  </a>
+</div>
 
 ---
 
@@ -66,8 +97,9 @@
 
 
 ### 
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="GitHub Quote" />
+</p>
 
 
 
@@ -77,8 +109,17 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 
 <!-- Header Links -->
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://bento.me/amangupta143)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/amangupta143)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amangupta143/)
-
-
+<p align="center">
+  <a href="https://bento.me/amangupta143">
+    <img src="https://img.shields.io/badge/-Portfolio-grey?style=flat&logo=appveyor&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://github.com/amangupta143">
+    <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" alt="Github">
+  </a>
+  <a href="https://www.linkedin.com/in/amangupta143/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:tuemail@ejemplo.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
