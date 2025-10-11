@@ -41,43 +41,43 @@
 
 <!-- 🏫 EDUCATION BLOCK -->
 <table style="width: 100%;">
-  <tr>
-    <td style="width: 110px; min-width: 110px; max-width: 110px; vertical-align: top;">
-      <a href="https://www.stanford.edu/">
-        <img src="https://media1.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="Warpnet"
-             style="width: 94px; height: 94px; object-fit: contain; display: block;" />
-      </a>
-    </td>
-    <td style="padding-left: 20px;">
-      <strong>Cross-platform application development</strong><br>
-      <a href="https://portal.edu.gva.es/iesmarenostrum/es/inicio/"><strong>Mare Nostrum Institute</strong></a> • Completed Jun 15<br>
-      <span style="font-size: 14px;">
-        Skills: <code>Android</code>, <code>Kotlin</code>, <code>Java</code>, <code>SQL</code>, <code>Firebase</code>, <code>Git</code>, <code>Markdown</code>,  
-        <code>REST APIs</code>, <code>Agile</code>, <code>Scrum</code>, <code>CI/CD</code>, <code>Portfolio Optimization</code>
-      </span>
-    </td>
-  </tr>
+  <tr>
+    <td style="width: 110px; min-width: 110px; max-width: 110px; vertical-align: top;">
+      <a href="https://portal.edu.gva.es/iesmarenostrum/es/inicio/">
+        <img src="https://media1.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="Mare Nostrum Institute"
+             style="width: 94px; height: 94px; object-fit: contain; display: block;" />
+      </a>
+    </td>
+    <td style="padding-left: 20px;">
+      <strong>Cross-platform application development</strong><br>
+      <a href="https://portal.edu.gva.es/iesmarenostrum/es/inicio/"><strong>Mare Nostrum Institute</strong></a> • Completed Jun 15<br>
+      <span style="font-size: 14px;">
+        Skills: <code>Android</code>, <code>Kotlin</code>, <code>Java</code>, <code>SQL</code>, <code>Firebase</code>, <code>Git</code>, <code>Markdown</code>,  
+        <code>REST APIs</code>, <code>Agile</code>, <code>Scrum</code>, <code>CI/CD</code>, <code>Portfolio Optimization</code>
+      </span>
+    </td>
+  </tr>
 </table>
 
 
 <table style="width: 100%;">
-  <tr>
-    <td style="width: 110px; min-width: 110px; max-width: 110px; vertical-align: top;">
-      <a href="https://www.stanford.edu/">
-        <img src="https://media1.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="Warpnet"
-             style="width: 94px; height: 94px; object-fit: contain; display: block;" />
-      </a>
-    </td>
-    <td style="padding-left: 20px;">
-      <strong>Google Project Management Professional Certificate</strong><br>
-      <a href="https://www.coursera.org/"><strong>Coursera</strong></a> • In progress<br>
-      <span style="font-size: 14px;">
-        Skills: <code>Project Planning</code>, <code>Agile Methodologies</code>, <code>Scrum</code>, <code>Kanban</code>, <code>Risk Management</code>,  
-        <code>Stakeholder Communication</code>, <code>Resource Allocation</code>, <code>Budget Tracking</code>, <code>Jira</code>, <code>Confluence</code>,  
-        <code>Gantt Charts</code>, <code>Critical Path Analysis</code>, <code>Change Management</code>, <code>Team Leadership</code>, <code>Process Improvement</code>
-      </span>
-    </td>
-  </tr>
+  <tr>
+    <td style="width: 110px; min-width: 110px; max-width: 110px; vertical-align: top;">
+      <a href="https://www.coursera.org/professional-certificates/google-project-management">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google Logo"
+             style="width: 94px; height: 94px; object-fit: contain; display: block;" />
+      </a>
+    </td>
+    <td style="padding-left: 20px;">
+      <strong>Google Project Management Professional Certificate</strong><br>
+      <a href="https://www.coursera.org/professional-certificates/google-project-management"><strong>Coursera</strong></a> • In progress<br>
+      <span style="font-size: 14px;">
+        Skills: <code>Project Planning</code>, <code>Agile Methodologies</code>, <code>Scrum</code>, <code>Kanban</code>, <code>Risk Management</code>,  
+        <code>Stakeholder Communication</code>, <code>Resource Allocation</code>, <code>Budget Tracking</code>, <code>Jira</code>, <code>Confluence</code>,  
+        <code>Gantt Charts</code>, <code>Critical Path Analysis</code>, <code>Change Management</code>, <code>Team Leadership</code>, <code>Process Improvement</code>
+      </span>
+    </td>
+  </tr>
 </table>
 
 
