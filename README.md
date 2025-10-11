@@ -40,12 +40,12 @@
 </div>
 
 <!-- 🏫 EDUCATION BLOCK -->
-<table>
+<table style="width: 100%;">
   <tr>
-    <td style="width: 110px; vertical-align: top;">
+    <td style="width: 110px; min-width: 110px; max-width: 110px; vertical-align: top;">
       <a href="https://www.stanford.edu/">
         <img src="https://media1.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="Warpnet"
-             style="width: 94px; height: 94px; object-fit: cover; display: block;" />
+             style="width: 94px; height: 94px; object-fit: contain; display: block;" />
       </a>
     </td>
     <td style="padding-left: 20px;">
@@ -59,12 +59,13 @@
   </tr>
 </table>
 
-<table style="table-layout: fixed; width: 100%;">
+
+<table style="width: 100%;">
   <tr>
-    <td style="width: 110px; vertical-align: top;">
+    <td style="width: 110px; min-width: 110px; max-width: 110px; vertical-align: top;">
       <a href="https://www.stanford.edu/">
         <img src="https://media1.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="Warpnet"
-             style="width: 94px; height: 94px; object-fit: cover; display: block;" />
+             style="width: 94px; height: 94px; object-fit: contain; display: block;" />
       </a>
     </td>
     <td style="padding-left: 20px;">
@@ -78,6 +79,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
