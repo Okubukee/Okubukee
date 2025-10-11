@@ -40,22 +40,24 @@
 </div>
 
 <!-- 🏫 EDUCATION BLOCK -->
-<div style="display: flex; align-items: center; margin-top: 20px;">
-  <!-- Left-aligned image -->
-  <a href="https://www.stanford.edu/" style="flex-shrink: 0;">
-    <img src="https://media1.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="Warpnet" height="94px" width="94px" style="margin-right: 50px;" />
-  </a>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.stanford.edu/">
+        <img src="https://media1.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="Warpnet" height="94px" width="94px" />
+      </a>
+    </td>
+    <td style="padding-left: 20px;">
+      <strong>Cross-platform application development</strong><br>
+      <a href="https://portal.edu.gva.es/iesmarenostrum/es/inicio/"><strong>Mare Nostrum Institute</strong></a> • Completed Jun 15<br>
+      <span style="font-size: 14px;">
+        Skills: <code>Android</code>, <code>Kotlin</code>, <code>Java</code>, <code>SQL</code>, <code>Firebase</code>, <code>Git</code>, <code>Markdown</code>,  
+        <code>REST APIs</code>, <code>Agile</code>, <code>Scrum</code>, <code>CI/CD</code>, <code>Portfolio Optimization</code>
+      </span>
+    </td>
+  </tr>
+</table>
 
-  <!-- Right-aligned text block -->
-  <div style="text-align: left;">
-    <strong>Cross-platform application development</strong><br>
-    <a href="https://portal.edu.gva.es/iesmarenostrum/es/inicio/"><strong>Mare Nostrum Institute</strong></a> • Completed Jun 15<br>
-    <span style="font-size: 14px;">
-      Skills: <code>Android</code>, <code>Kotlin</code>, <code>Java</code>, <code>SQL</code>, <code>Firebase</code>, <code>Git</code>, <code>Markdown</code>,  
-      <code>REST APIs</code>, <code>Agile</code>, <code>Scrum</code>, <code>CI/CD</code>, <code>Portfolio Optimization</code>
-    </span>
-  </div>
-</div>
 
 
 
