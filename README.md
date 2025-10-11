@@ -5,7 +5,7 @@
 </div>
 
 <pre align="left">
-💻 Backend developer in progress | Tech enthusiast  
+💻 Junior Backend developer | Tech enthusiast  
 📚 Bachelor's in Multiplatform Application Development  
 📝 Passionate about development and continuous learning  
 🔭 Adaptable to diverse topics and challenges  
@@ -35,20 +35,19 @@
 
 <!-- 🎓 CERTIFICATIONS SECTION -->
 <div align="center">
-  <img src="https://media0.giphy.com/media/0fXoIiJw535moY5eu5/giphy.gif" width="100px" style="margin-top: 30px">
+  <img src="https://media0.giphy.com/media/0fXoIiJw535moY5eu5/giphy.gif" width="100px" style="margin-top: 30px;">
   <h2>🎓 Licenses & Certifications</h2>
 </div>
 
 <!-- 🏫 EDUCATION BLOCK -->
-<div align="center" style="margin-top: 20px;">
-  <div style="display: flex; align-items: center; justify-content: center;">
-    <!-- Left-aligned image -->
-    <a href="https://www.stanford.edu/">
-      <img src="https://media1.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="Warpnet" height="94px" width="94px" style="margin-right: 30px;" />
-    </a>
+<div style="display: flex; align-items: center; margin-top: 20px;">
+  <!-- Left-aligned image -->
+  <a href="https://www.stanford.edu/" style="flex-shrink: 0;">
+    <img src="https://media1.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="Warpnet" height="94px" width="94px" style="margin-right: 50px;" />
+  </a>
 
-  <!-- Vertically centered text block -->
-  <div style="text-align: center;">
+  <!-- Right-aligned text block -->
+  <div style="text-align: left;">
     <strong>Cross-platform application development</strong><br>
     <a href="https://portal.edu.gva.es/iesmarenostrum/es/inicio/"><strong>Mare Nostrum Institute</strong></a> • Completed Jun 15<br>
     <span style="font-size: 14px;">
@@ -57,6 +56,7 @@
     </span>
   </div>
 </div>
+
 
 
 <br>
