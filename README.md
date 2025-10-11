@@ -40,14 +40,14 @@
 </div>
 
 <!-- 🏫 EDUCATION BLOCK -->
-<div style="overflow: hidden; margin-top: 20px;">
+<div style="display: flex; align-items: center; margin-top: 20px;">
   <!-- Left-aligned image -->
   <a href="https://www.stanford.edu/">
-    <img src="https://media1.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="Warpnet" height="94px" width="94px" style="float: left; margin-right: 20px;" />
+    <img src="https://media1.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="Warpnet" height="94px" width="94px" style="margin-right: 30px;" />
   </a>
 
-  <!-- Centered text block -->
-  <div style="text-align: center;">
+  <!-- Vertically centered text block -->
+  <div style="text-align: left;">
     <strong>Cross-platform application development</strong><br>
     <a href="https://portal.edu.gva.es/iesmarenostrum/es/inicio/"><strong>Mare Nostrum Institute</strong></a> • Completed Jun 15<br>
     <span style="font-size: 14px;">
@@ -56,6 +56,7 @@
     </span>
   </div>
 </div>
+
 
 <br>
 
