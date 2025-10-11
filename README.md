@@ -43,10 +43,8 @@
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="width: 110px; min-width: 110px; max-width: 110px; vertical-align: middle; text-align: center;">
-      <a href="https://portal.edu.gva.es/iesmarenostrum/es/inicio/">
-        <img src="https://www.centrosteco.com/wp-content/uploads/teco-ies-mare-nostrum.png?v=2" alt="Mare Nostrum Institute Logo"
-             style="width: 85px; object-fit: contain;" />
-      </a>
+      <img src="https://www.centrosteco.com/wp-content/uploads/teco-ies-mare-nostrum.png?v=2" alt="Mare Nostrum Institute Logo"
+           style="width: 85px; object-fit: contain;" />
     </td>
     <td style="padding-left: 20px; vertical-align: middle;">
       <strong>Cross-platform application development</strong><br>
@@ -63,10 +61,8 @@
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="width: 110px; min-width: 110px; max-width: 110px; vertical-align: middle; text-align: center;">
-      <a href="https://www.coursera.org/professional-certificates/google-project-management">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google Logo"
-             style="width: 85px; object-fit: contain;" />
-      </a>
+      <img src="https://www.adelphi.edu/wp-content/uploads/2024/04/download-1-300x300.png" alt="Google Logo"
+           style="width: 85px; object-fit: contain;" />
     </td>
     <td style="padding-left: 20px; vertical-align: middle;">
       <strong>Google Project Management Professional Certificate</strong><br>
@@ -79,13 +75,6 @@
     </td>
   </tr>
 </table>
-
-
-
-
-
-
-
 
 <br>
 
