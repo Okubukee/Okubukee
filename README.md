@@ -44,8 +44,9 @@
   <tr>
     <td style="width: 110px; min-width: 110px; max-width: 110px; vertical-align: top;">
       <a href="https://portal.edu.gva.es/iesmarenostrum/es/inicio/">
-                <img src="https://www.centrosteco.com/wp-content/uploads/teco-ies-mare-nostrum.png" alt="Cross-platform Development Icon"
-             style="width: 94px; height: 94px; object-fit: contain; display: block; max-width: 100%; max-height: 100%;" />
+        
+        <img src="https://www.centrosteco.com/wp-content/uploads/teco-ies-mare-nostrum.png" alt="Cross-platform Development Icon"
+             style="width: 50px; height: 50px; object-fit: contain; display: block; max-width: 100%; max-height: 100%;" />
       </a>
     </td>
     <td style="padding-left: 20px;">
