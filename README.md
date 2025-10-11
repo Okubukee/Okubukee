@@ -42,9 +42,10 @@
 <!-- 🏫 EDUCATION BLOCK -->
 <table>
   <tr>
-    <td style="min-width: 100px; max-width: 110px; width: 110px;">
+    <td style="width: 110px; vertical-align: top;">
       <a href="https://www.stanford.edu/">
-        <img src="https://media1.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="Warpnet" style="width: 94px; height: 94px; min-width: 94px; max-width: 94px;" />
+        <img src="https://media1.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="Warpnet"
+             style="width: 94px; height: 94px; object-fit: cover; display: block;" />
       </a>
     </td>
     <td style="padding-left: 20px;">
@@ -60,9 +61,10 @@
 
 <table>
   <tr>
-    <td style="min-width: 110px; max-width: 110px; width: 110px;">
+    <td style="width: 110px; vertical-align: top;">
       <a href="https://www.stanford.edu/">
-        <img src="https://media1.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="Warpnet" style="width: 94px; height: 94px;" />
+        <img src="https://media1.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="Warpnet"
+             style="width: 94px; height: 94px; object-fit: cover; display: block;" />
       </a>
     </td>
     <td style="padding-left: 20px;">
@@ -76,6 +78,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
