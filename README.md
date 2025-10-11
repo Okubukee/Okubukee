@@ -44,8 +44,8 @@
   <tr>
     <td style="width: 110px; min-width: 110px; max-width: 110px; vertical-align: top;">
       <a href="https://portal.edu.gva.es/iesmarenostrum/es/inicio/">
-        <img src="https://media1.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="Mare Nostrum Institute"
-             style="width: 94px; height: 94px; object-fit: contain; display: block;" />
+                <img src="https://www.centrosteco.com/wp-content/uploads/teco-ies-mare-nostrum.png" alt="Cross-platform Development Icon"
+             style="width: 94px; height: 94px; object-fit: contain; display: block; max-width: 100%; max-height: 100%;" />
       </a>
     </td>
     <td style="padding-left: 20px;">
