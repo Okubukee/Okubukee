@@ -42,9 +42,9 @@
 <!-- 🏫 EDUCATION BLOCK -->
 <table>
   <tr>
-    <td>
+    <td style="min-width: 100px;">
       <a href="https://www.stanford.edu/">
-        <img src="https://media1.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="Warpnet" height="94px" width="94px" />
+        <img src="https://media1.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="Warpnet" style="width: 94px; height: 94px; min-width: 94px; max-width: 94px;" />
       </a>
     </td>
     <td style="padding-left: 20px;">
@@ -57,6 +57,26 @@
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td style="min-width: 100px;">
+      <a href="https://www.stanford.edu/">
+        <img src="https://media1.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="Warpnet" style="width: 94px; height: 94px; min-width: 94px; max-width: 94px;" />
+      </a>
+    </td>
+    <td style="padding-left: 20px;">
+      <strong>Google Project Management Professional Certificate</strong><br>
+      <a href="https://www.coursera.org/"><strong>Coursera</strong></a> • In progress<br>
+      <span style="font-size: 14px;">
+        Skills: <code>Project Planning</code>, <code>Agile Methodologies</code>, <code>Scrum</code>, <code>Kanban</code>, <code>Risk Management</code>,  
+        <code>Stakeholder Communication</code>, <code>Resource Allocation</code>, <code>Budget Tracking</code>, <code>Jira</code>, <code>Confluence</code>,  
+        <code>Gantt Charts</code>, <code>Critical Path Analysis</code>, <code>Change Management</code>, <code>Team Leadership</code>, <code>Process Improvement</code>
+      </span>
+    </td>
+  </tr>
+</table>
+
 
 
 
