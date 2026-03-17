@@ -94,6 +94,7 @@
     <tbody>
       <tr><td><strong>Carlog</strong></td><td>Vehicle maintenance record</td><td>Kotlin</td><td><a href="https://github.com/Okubukee/Carlog_Preview">View</a></td></tr>
       <tr><td><strong>Swapify</strong></td><td>Web app for selling items</td><td>React, Kotlin, Java</td><td><a href="https://github.com/Okubukee/">View</a></td></tr>
+      <tr><td><strong>Chromp</strong></td><td>A web application focused on colors and their tools </td><td>React, Python</td><td><a href="https://github.com/Okubukee/Chromp">View</a></td></tr>
       <tr><td><strong>Soon</strong></td><td>Coming soon</td><td>—</td><td><a href="https://github.com/Okubukee/">View</a></td></tr>
     </tbody>
   </table>
