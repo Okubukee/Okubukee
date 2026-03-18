@@ -10,7 +10,7 @@
 📝 Passionate about development and continuous learning  
 🔭 Adaptable to diverse topics and challenges  
 🌱 Focused on simplifying users' lives through tech  
-🌟 Languages: Java, C#, Kotlin  
+🌟 Languages: Java, C#, Kotlin, Go, Python  
 🚩 Interested in application development  
 </pre>
 
